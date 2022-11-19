@@ -7,8 +7,8 @@ content: [
   theme: {
     extend: {
       colors: {
-        first_bg: "#d8d8d8",
-        second_bg: "#e1e1e1",
+        first_bg: "#e5e5e5",
+        second_bg: "#e3e3e3",
         first_text: "#101010",
         second_text: "#303030"
       }
