@@ -1,14 +1,10 @@
 <script lang="ts">
-import Github from '@/components/Icons/gitHub.vue'
-import Linkedin from '@/components/Icons/Linkedin.vue'
-import Twitter from '@/components/Icons/Twiter.vue'
+
 import { Options, Vue } from 'vue-class-component';
 
 @Options({
     components: {
-        Github,
-        Linkedin,
-        Twitter
+
     },
 })
 export default class HomeView extends Vue { }
@@ -30,12 +26,12 @@ export default class HomeView extends Vue { }
                     <div class=" flex justify-between">
                         <div class="m-2 font-medium text-2xl cursor-pointer">
                             <a href="https://github.com/mohamed-elrefai">
-                                <Github />
+                                <gitHub />
                             </a>
                         </div>
                         <div class="m-2 font-medium text-2xl cursor-pointer">
                             <a href="https://twitter.com/CodeElrefai">
-                                <Twitter />
+                                <Twiter />
                             </a>
                         </div>
                         <div class="m-2 font-medium text-2xl cursor-pointer">
