@@ -1,6 +1,6 @@
 <template>
-  <div class=" text-red-600">
-    hahaha
+  <div class="">
+    
   </div>
 </template>
 
