@@ -1,8 +1,11 @@
 <template>
-    <div class=" bg-gray-100 h-10 flex items-center justify-between">
+    <div class=" bg-gray-100 w-full h-10 flex items-center justify-between">
         <div class=" text-xl flex justify-start ml-10 font-medium text-first_text">
             <router-link to="/">
-                <h1>
+                <h1 class="flex">
+                    <span class="mt-[6px] mr-2">
+                        <Logo />
+                    </span>
                     Mohamed Mostafa
                 </h1>
             </router-link>

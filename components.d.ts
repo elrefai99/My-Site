@@ -8,8 +8,8 @@ export {}
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
     AWS: typeof import('./src/components/Icons/Backend/AWS.vue')['default']
-    'C#': typeof import('./src/components/Icons/Other/C#.vue')['default']
-    'C++': typeof import('./src/components/Icons/Other/C++.vue')['default']
+    Cplus: typeof import('./src/components/Icons/Other/Cplus.vue')['default']
+    CSharp: typeof import('./src/components/Icons/Other/CSharp.vue')['default']
     CSS: typeof import('./src/components/Icons/frontend/CSS.vue')['default']
     FireBase: typeof import('./src/components/Icons/Backend/FireBase.vue')['default']
     GitHub: typeof import('./src/components/Icons/gitHub.vue')['default']
@@ -18,10 +18,11 @@ declare module '@vue/runtime-core' {
     HTML: typeof import('./src/components/Icons/frontend/HTML.vue')['default']
     JavaScript: typeof import('./src/components/Icons/frontend/JavaScript.vue')['default']
     Linkedin: typeof import('./src/components/Icons/Linkedin.vue')['default']
+    Logo: typeof import('./src/components/Icons/Logo.vue')['default']
     Mongo: typeof import('./src/components/Icons/Backend/Mongo.vue')['default']
     MySQL: typeof import('./src/components/Icons/Backend/MySQL.vue')['default']
     NavBar: typeof import('./src/components/templates/NavBar.vue')['default']
-    'Node.js': typeof import('./src/components/Icons/Backend/Node.js.vue')['default']
+    Node: typeof import('./src/components/Icons/Backend/Node.vue')['default']
     Python: typeof import('./src/components/Icons/Other/Python.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
