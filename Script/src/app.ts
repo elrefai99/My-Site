@@ -1,3 +1,4 @@
+import 'dotenv/config'
 import express, { Application, NextFunction, Request, Response } from 'express'
 import SetupsUtils from './Utils/Setups.utils'
 import sgMail from '@sendgrid/mail'
@@ -31,9 +32,9 @@ const Contact_me = (email: string, username: string, senderMessage: string) => {
 
 app.post('/email', (req: Request, res: Response, next: NextFunction) => {
     try{
-        const data = req.body;
-        Contact_me(data.email, data.username, data.senderMessage)
-        res.status(200).json(data)
+        const {email, username, senderMessage} = req.body;
+        Contact_me(email, username, senderMessage)
+        res.status(200).json('Email Send ...')
         next()
     }catch(err){
         res.status(500).json({code: 500, status: "Error", message: err})
