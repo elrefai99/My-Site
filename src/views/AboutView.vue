@@ -1,6 +1,6 @@
 <template>
     <NavBar />
-    <div>
+    <div> 
         <router-link to="/">
             <div class=" text-sm font-bold m-2 ml-11">
                 cd ..
