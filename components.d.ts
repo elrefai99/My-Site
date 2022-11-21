@@ -23,6 +23,7 @@ declare module '@vue/runtime-core' {
     MySQL: typeof import('./src/components/Icons/Backend/MySQL.vue')['default']
     NavBar: typeof import('./src/components/templates/NavBar.vue')['default']
     Node: typeof import('./src/components/Icons/Backend/Node.vue')['default']
+    ProjectPage: typeof import('./src/components/templates/Pages/ProjectPage.vue')['default']
     Python: typeof import('./src/components/Icons/Other/Python.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']

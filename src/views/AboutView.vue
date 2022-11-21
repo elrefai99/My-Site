@@ -9,7 +9,7 @@
         <div class=" flex justify-center items-center w-full h-full">
             <div class=" m-32">
                 <div class=" p-5 m-5">
-                    <h1 class="font-bold text-2xl">Hello there, My name is Mohamed Mostafa,</h1>
+                    <h1 class="font-bold text-2xl">Hello there, My name is Mohamed Mostafa, from Egypt</h1>
                     <p>
                         I'm a 2-year experienced Node.js Backend Web Developer and 4 years Software Developer as all who enjoys building
                         everything with JavaScript.

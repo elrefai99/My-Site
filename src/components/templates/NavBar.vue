@@ -13,9 +13,6 @@
         <div class=" flex  p-[20px] m-2 mr-10">
             <div class=" flex justify-end">
                 <div class="m-2">
-                    <router-link to="/blog">Blogs</router-link>
-                </div>
-                <div class="m-2">
                     <router-link to="/project">Projects</router-link>
                 </div>
                 <div class="m-2">
