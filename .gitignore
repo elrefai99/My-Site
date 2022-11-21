@@ -141,3 +141,5 @@ dist
 build
 dist
 bin
+
+env
