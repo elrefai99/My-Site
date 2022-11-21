@@ -16,32 +16,35 @@
                     </div>
                     <div class="flex">
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class="p-5 mt-[5px] text-4xl">
                                 <HTML />
+                                <p class=" text-xs font-extrabold">
+                                    HTML5
+                                </p>
                             </div>
                         </div>
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class=" p-5 mt-[5px] text-4xl">
                                 <CSS />
                             </div>
                         </div>
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class=" p-5 mt-[5px] text-4xl">
                                 <JavaScript />
                             </div>
                         </div>
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class=" p-5 mt-[5px] text-4xl">
                                 <TypeScript />
                             </div>
                         </div>
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class=" p-5 mt-[5px] text-4xl">
                                 <Vue />
                             </div>
                         </div>
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class=" p-5 mt-[5px] text-4xl">
                                 <Tailwind />
                             </div>
                         </div>
@@ -55,42 +58,45 @@
                     </div>
                     <div class="flex">
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class="p-5 mt-[5px] text-4xl">
                                 <AWS />
+                                <p class=" text-xs font-extrabold">
+                                    AWS
+                                </p>
                             </div>
                         </div>
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class=" p-5 mt-[5px] text-4xl">
                                 <Serverless />
                             </div>
                         </div>
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class=" p-5 mt-[5px] text-4xl">
                                 <FireBase />
                             </div>
                         </div>
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class=" p-5 mt-[5px] text-4xl">
                                 <JavaScript />
                             </div>
                         </div>
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class=" p-5 mt-[5px] text-4xl">
                                 <TypeScript />
                             </div>
                         </div>
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class=" p-5 mt-[5px] text-4xl">
                                 <Mongo />
                             </div>
                         </div>
                         <div class="w-full p-5 m-5 text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class="flex p-5 mt-[5px] text-4xl">
                                 <Node />
                             </div>
                         </div>
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex  bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class="flex  p-5 mt-[5px] text-4xl">
                                 <MySQL />
                             </div>
                         </div>
@@ -105,22 +111,22 @@
                     </div>
                     <div class="flex">
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class="flex p-5 mt-[5px] text-4xl">
                                 <CSharp />
                             </div>
                         </div>
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class="flex p-5 mt-[5px] text-4xl">
                                 <Cplus />
                             </div>
                         </div>
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class="flex p-5 mt-[5px] text-4xl">
                                 <Go />
                             </div>
                         </div>
                         <div class="w-full flex p-5 m-5  text-center ">
-                            <div id="icon" class="flex bg-gray-100 p-5 mt-[5px] text-4xl">
+                            <div id="icon" class="flex p-5 mt-[5px] text-4xl">
                                 <Python />
                             </div>
                         </div>
