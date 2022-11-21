@@ -58,5 +58,18 @@
                 </a>
             </div>
         </div>
+        <div class="flex m-5 p-5">
+            <div class=" m-1 w-[406px] block max-w-sm p-6  rounded-lg shadow-md hover:bg-gray-100 ">
+                <h5 class="mb-2 text-2xl font-bold tracking-tight ">Social Media</h5>
+                <p class="font-normal ">
+                    A simple Social Media.
+                </p>
+                <a href="https://github.com/mohamed-elrefai/eine">
+                    <button class=" mt-2 p-2 font-bold items-center text-center text-xl">
+                        <gitHub />
+                    </button>
+                </a>
+            </div>
+        </div>
     </div>
 </template>
