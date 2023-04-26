@@ -15,11 +15,6 @@
                         Project
                     </router-link>
                 </div>
-                <div md:block mx3>
-                    <router-link to="/skills">
-                        Skills
-                    </router-link>
-                </div>
                 <div text-5 mx1 my1 text-gray5 dark:text="#e8e8e8">
                     <a href="https://github.com/mohamed-elrefai">
                         <div i-akar-icons:github-fill dark:akar-icons:github-outline-fill />

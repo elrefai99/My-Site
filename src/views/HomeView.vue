@@ -4,7 +4,7 @@
 
 <template>
     <div text="gray6" dark:text="#e8e8e8" w-full>
-        <div flex flex-col md:flex md:flex-col md:text-center md:justify-center md:m20 md:p30> 
+        <div flex flex-col md:flex md:flex-col md:text-center md:justify-center md:m10 md:p20> 
             <div justify-start text-center p2>
                 <h1 font-bold text="7" md:text="10">Mohamed Mostafa</h1>
             </div>
@@ -24,6 +24,18 @@
                         <div i-akar-icons:linkedin-box-fill dark:i-akar-icons:linkedin-fill />
                     </a>
                 </div>
+            </div>
+            <div grid md:grid-cols-2 justify-items-center text-center p5>
+                <router-link to="/contact">
+                    <div bg-white dark:bg-black p5 w="20rem" my3 rounded-xl>
+                        <button text-center>Contact</button>
+                    </div>
+                </router-link>
+                <a href="https://firebasestorage.googleapis.com/v0/b/start-d51cf.appspot.com/o/resume.pdf?alt=media&token=eef12632-054d-47ea-a4e1-5bc2f9a3aa1d" download>
+                    <div bg-white dark:bg-black p5 w="20rem" w-full my3 rounded-xl>
+                        <button>Download Resume</button>
+                    </div>
+                </a>
             </div>
         </div>
     </div>
